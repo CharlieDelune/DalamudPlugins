@@ -9,7 +9,7 @@
     "RepoUrl": "https://github.com/CharlieDelune/Neevie-Auto-Mammet",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 7,
-    "IconUrl": "https://github.com/GlassLionCharlie/Neevie-Auto-Mammet/raw/master/icon.png",
+    "IconUrl": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/raw/master/icon.png",
     "Tags": [
       "emote",
       "social",
@@ -19,10 +19,10 @@
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1662934414,
+    "LastUpdated": 1662935688,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/releases/download/0.1.0/NeevieAutoMammet.zip",
-    "DownloadLinkTesting": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/releases/download/0.1.0/NeevieAutoMammet.zip",
-    "DownloadLinkUpdate": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/releases/download/0.1.0/NeevieAutoMammet.zip"
+    "DownloadLinkInstall": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/releases/download/v0.1.0/NeevieAutoMammet.zip",
+    "DownloadLinkTesting": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/releases/download/v0.1.0/NeevieAutoMammet.zip",
+    "DownloadLinkUpdate": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/releases/download/v0.1.0/NeevieAutoMammet.zip"
   }
 ]
