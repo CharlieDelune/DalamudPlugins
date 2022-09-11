@@ -3,6 +3,7 @@
     "username": "CharlieDelune",
     "repo": "Neevie-Auto-Mammet",
     "branch": "master",
-    "configFolder": "NeevieAutoMammet"
+    "configFolder": "NeevieAutoMammet",
+    "configName" : "NeevieAutoMammet"
   }
 ]
