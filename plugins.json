@@ -1,14 +1,8 @@
 [
   {
-    "username": "LeonBlade",
-    "repo": "BDTHPlugin",
+    "username": "CharlieDelune",
+    "repo": "Neevie-Auto-Mammet",
     "branch": "master",
-    "configFolder": "BDTHPlugin"
-  },
-  {
-    "username": "LeonBlade",
-    "repo": "HeelsPlugin",
-    "branch": "main",
-    "configFolder": "HeelsPlugin"
+    "configFolder": "NeevieAutoMammet"
   }
 ]
