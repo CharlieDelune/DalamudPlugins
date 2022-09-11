@@ -5,6 +5,7 @@
     "Punchline": "Now you too can be annoyed to death by a mammet that spews quotes at you.",
     "Description": "Neevie Auto-Mammet Emote Generator accepts a series of quotes provided by you, the user. A random quote is selected and inserted into the emote, and the emote is split into chunks if the string is too long to fit in a single emote.",
     "InternalName": "NeevieAutoMammet",
+    "AssemblyVersion": "0.1.2",
     "RepoUrl": "https://github.com/CharlieDelune/Neevie-Auto-Mammet",
     "ApplicableVersion": "any",
     "Tags": [
@@ -16,10 +17,10 @@
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1662931605,
+    "LastUpdated": 1662933524,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/releases/download/v0.1.1/NeevieAutoMammet.zip",
-    "DownloadLinkTesting": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/releases/download/v0.1.1/NeevieAutoMammet.zip",
-    "DownloadLinkUpdate": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/releases/download/v0.1.1/NeevieAutoMammet.zip"
+    "DownloadLinkInstall": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/releases/download/v0.1.2/NeevieAutoMammet.zip",
+    "DownloadLinkTesting": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/releases/download/v0.1.2/NeevieAutoMammet.zip",
+    "DownloadLinkUpdate": "https://github.com/CharlieDelune/Neevie-Auto-Mammet/releases/download/v0.1.2/NeevieAutoMammet.zip"
   }
 ]
