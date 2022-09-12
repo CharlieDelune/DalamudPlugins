@@ -9,8 +9,8 @@ Contains the repository JSON file for my Dalamud Plugins for third party plugin 
 * Check the "Enabled" box for your new entry.
 * Click "Save and Close" at the bottom.
 
-From here, you can now install my plugins from within the game by typing `/xlplugins` in the chat and hitting enter.
-Now, just select one of my plugins you wish to install like normal, and click "Install".
-All of my plugins are tagged with my username "GlassLionCharlie", so you can enter that in the search field to see all of the plugins I've created.
+From here, you can now install the plugins from within the game by typing `/xlplugins` in the chat and hitting enter.
+Now, just select a plugin and click "Install" as usual.
+All of my plugins are tagged with "GlassLionCharlie",search for that to see all of the plugins I've created.
 
 Shoutout to LeonBlade for the contents of this readme.
